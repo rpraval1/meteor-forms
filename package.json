@@ -1,0 +1,24 @@
+{
+  "name": "meteor-FormData",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "meteor-node-stubs": "~0.2.4",
+    "react": "^15.4.2",
+    "react-addons-pure-render-mixin": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-router": "^3.0.2",
+    "semantic-ui-react": "^0.67.0"
+  },
+  "devDependencies": {
+      "autoprefixer": "^6.3.1"
+    },
+    "postcss": {
+      "plugins": {
+        "autoprefixer": {"browsers": ["last 2 versions"]}
+      }
+    }
+}
