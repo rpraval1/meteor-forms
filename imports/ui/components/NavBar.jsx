@@ -19,7 +19,7 @@ class NavBar extends Component {
     const { activeItem } = this.state
 
     return (
-      <Menu stackable>
+      <Menu stackable inverted color='purple'>
         <Menu.Item>
           Example Form
         </Menu.Item>
